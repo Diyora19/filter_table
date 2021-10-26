@@ -1,0 +1,14 @@
+body{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+section{
+    width: 70%;
+}
+
+input{
+    margin: 20px 0;
+}
